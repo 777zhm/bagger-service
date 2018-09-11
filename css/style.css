@@ -105,11 +105,29 @@ a.destination {
     color: rgba(47, 173, 218, 1);
 }
 
-
-
 /* END home */
+/*Start action */
+
+.acion_block{
+  background-color: #ef3f22;
+}
+
+.action_header{
+  text-transform: uppercase;
+  color: #fff;
+}
+
+.action_telephone{
+  color: white;
+  font-family: "Philosopher", sans-serif;
+  font-size: 30px;
+  font-weight: bold;
+}
+
+
+/* END action */
 /*Start features */
-.features {
+.features, .features_text, .manufacturers_text {
   background-image: url("../img/main_bgtexture-min.png");
   padding-top: 1rem;
   color: #fff; }
